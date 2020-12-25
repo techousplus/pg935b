@@ -1,6 +1,6 @@
 {
     "features": [{
         "name": "SnowSwitch",
-        "enabled": false
+        "enabled": true
     }]
 }
